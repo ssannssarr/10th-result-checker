@@ -83,7 +83,7 @@ CHECK_URLS = [
     "https://results.cbse.nic.in",
     "https://www.cbse.gov.in"
 ]
-KEYWORDS   = ["class x", "class 10", "secondary", "result 2025"]
+KEYWORDS   = ["class x", "class 10", "secondary", "result 2026"]
 CHECK_INTERVAL = 300  # seconds — don't go below 60
 # ────────────────────────────────────────────────
 ```
