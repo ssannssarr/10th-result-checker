@@ -174,7 +174,9 @@ MIT License — free to use, modify, and distribute.
 
 **Your Name**
 - GitHub: [@ssannssarr](https://github.com/YOUR_USERNAME)
-- The coding work is done by claude sonnet 4.6
+## 🤖 Credits
+
+Coding assistance by [Claude Sonnet 4.6](https://claude.ai) — AI by Anthropic.
 
 ---
 
